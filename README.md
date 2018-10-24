@@ -10,7 +10,7 @@ that cannot be selected from the list. The FULL NAMES ARE REQUIRED TO BE ENTERED
 
 
 ## Executable
-I have created a executable .exe program from my python source code using pyinstaller. It is available in the Exectable/GUI.
+I have created an executable file from my python source code using pyinstaller. It is available in the Source/dist/GUI/.
 The name of the executable is GUI.exe. Please run and allow the required access to the file.
 All the dependencies are present and will run smoothly on any windows machine but will require network access. Kindly provide
 the reqired network access, thus allowing the program to run.
@@ -36,4 +36,4 @@ well structured and documented and will be easy to understand.
    ![alt text](https://github.com/mohitkhare582/OneDirect/blob/master/Screen3.png)
 
 
-If you have any issues please pull a isuue request and I will be amused to help.
+If you have any issues please pull an issue request and I will be glad to help.
