@@ -5,7 +5,7 @@ A GUI based flight search program.
 ## Description
 The program uses google flights information and collect the required information for the flights. The inputs are complete names of cities
 to be travelled. The GUI contains a list box that helps user in writing the correct name. The list box only shows the correct name,
-that cannot be selected from the list. The FULL NAMES ARE REQUIRED TO BE ENTERED MANNUALLY.
+that cannot be selected from the list. The FULL NAMES ARE REQUIRED TO BE ENTERED MANUALLY.
 
 
 
