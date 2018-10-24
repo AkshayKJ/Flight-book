@@ -7,11 +7,10 @@ A list of Airports along with theie IATA codes are extracted from https://airpor
 
 import sqlite3
 import requests
-
 from bs4 import BeautifulSoup
 import time
 from dateutil.parser import parse
-
+from multiprocessing import Queue as queue
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
